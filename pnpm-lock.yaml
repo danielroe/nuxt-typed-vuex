@@ -88,10 +88,10 @@ importers:
         specifier: ~7.25.8
         version: 7.25.8(@babel/core@7.25.8)
       '@nuxt/test-utils':
-        specifier: ^0.2.2
+        specifier: 0.2.2
         version: 0.2.2(@babel/core@7.25.8)
       '@nuxt/types':
-        specifier: ^2.18.1
+        specifier: 2.18.1
         version: 2.18.1
       '@nuxt/typescript-build':
         specifier: ^2.1.0
